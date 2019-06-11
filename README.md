@@ -10,4 +10,4 @@ Have a bug or a feature request? [Please open a new issue](https://github.com/th
 
 ## Copyright and license
 
-copyright 2017 themefisher.com. Code released under [the MIT license](https://github.com/themefisher/infinity-bootstrap4-coming-soon-template/blob/master/license.txt).
+Code released under [the MIT license](https://github.com/themefisher/infinity-bootstrap4-coming-soon-template/blob/master/license.txt).
